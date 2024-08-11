@@ -1,0 +1,45 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: left;
+}
+
+body{
+    color: brown;
+    background-color: rgb(252, 230, 223);
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+li.menu {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: rgb(27, 168, 27);
+  }
+
+ul#menu {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  img{
+    width: 500px;
+    float: right;
+  }
+.centro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding: 50px 50px 0px 50px;
+    text-align: center;
+}
+p#yep{
+    text-align: center;
+}
+p.vertical{
+    writing-mode: vertical-lr;
+    padding: 20px 0px 0px 70px;
+}
+
+div{
+    display: flex;
+    padding: 40px;       
+    }
